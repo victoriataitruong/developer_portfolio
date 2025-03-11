@@ -1,0 +1,19 @@
+{
+  "name": "developer_portfolio",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriataitruong/developer_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoriataitruong/developer_portfolio/issues"
+  },
+  "homepage": "https://github.com/victoriataitruong/developer_portfolio#readme",
+  "description": ""
+}
